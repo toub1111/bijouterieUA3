@@ -17,4 +17,4 @@ Pour rendre notre page web adaptée à la visualisation sur des appareils mobile
 
 ![telephone1](https://github.com/mekency/PerlesDeLuxeU3/assets/156733944/5362d479-deb3-4a35-b63c-f7a79dc9b887)
 ![telephone2](https://github.com/mekency/PerlesDeLuxeU3/assets/156733944/1b58097d-c843-4980-baf6-708709299895)
-![telephone3](https://github.com/mekency/PerlesDeLuxeU3/assets/156733944/17ae8bd2-bdbb-425d-9cc7-f062646299d6)
+
