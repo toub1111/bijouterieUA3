@@ -12,7 +12,6 @@ Pour le loader ce code JavaScript est utilisé pour contrôler l'affichage d'un 
 Pour le regester validation ce code est une fonction JavaScript qui valide un formulaire de connexion. Il vérifie si l'email et le mot de passe sont correctement saisis. Si l'email est vide ou invalide selon une expression régulière, ou si le mot de passe est vide ou moins de 6 caractères, un message d'erreur s'affiche et la fonction retourne false. Si les validations passent, un message de succès s'affiche et la fonction retourne true, permettant la soumission du formulaire.
 
 ![regesterval](https://github.com/mekency/PerlesDeLuxeU3/assets/156733944/0920c67f-0cb8-4a83-83a4-ddc2735ddfac)
-![iscription](https://github.com/mekency/PerlesDeLuxeU3/assets/156733944/7ad3d8c2-52cf-4ef2-92b6-6a7f5d0ecf1d)
 
 Pour rendre notre page web adaptée à la visualisation sur des appareils mobiles comme les smartphones et les tablettes, il est essentiel de comprendre et d'implémenter le concept de "Responsive Design". Cela implique l'utilisation de la balise meta viewport pour contrôler la fenêtre d'affichage, l'application de styles CSS flexibles à travers les media queries pour que le contenu s'adapte aux différentes tailles d'écran, et la construction de pages qui redimensionnent et reformatent le contenu efficacement pour une expérience utilisateur optimale sur tous les appareils. Le but est de s'assurer que le site est ergonomique, facile à utiliser, et qu'il offre une présentation cohérente sur tous les supports.
 
